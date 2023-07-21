@@ -1,6 +1,4 @@
-
-![Chill Mario](https://github.com/antenen21/antenen21/assets/116340271/8ba45b34-9a01-491b-9967-6fba045bfc17)
-
+![d9jd0vd-ce58e1c2-2af0-4d62-8b34-7877ee28da62](https://github.com/antenen21/antenen21/assets/116340271/ea98b8e6-7335-4fab-a0d6-290d38e902bb)
 
 
 <h3 align="left">A passionate Python developer from Switzerland</h3>
